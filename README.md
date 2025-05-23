@@ -4,7 +4,7 @@
 
 
 🚀 Currently Building:
-An AI-powered solution that summarizes any form of data — text, video, or speech — into clear, structured insights.
+An AI-powered solution that summarizes any form of data - text, video, or speech into clear, structured insights.
 
 🌱 Currently Learning:
 - .NET and C#  
