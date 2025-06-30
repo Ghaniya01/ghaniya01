@@ -6,10 +6,6 @@
 🚀 Currently Building:
 An AI-powered solution that summarizes any form of data - text, video, or speech into clear, structured insights.
 
-🌱 Currently Learning:
-- .NET and C#  
-- Machine Learning & AI
-
 🤝 Looking to Collaborate On:  
 - Open-source projects  
 - AI-powered user experiences  
