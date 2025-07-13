@@ -13,7 +13,7 @@ An AI-powered solution that summarizes any form of data - text, video, or speech
 - Mentorship opportunities
 
 📝 I share tech solutions & tips on my blog:
-[👉 techwithghaniya.hashnode.dev](https://techwithghaniya.hashnode.dev/)
+[techwithghaniya.hashnode.dev](https://techwithghaniya.hashnode.dev/)
 
 📫 How to Reach Me:  
 - [LinkedIn](https://www.linkedin.com/in/ganiyatu-sanuusi-750a8118a/)  
