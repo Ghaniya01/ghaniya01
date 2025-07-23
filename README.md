@@ -8,7 +8,7 @@ An AI-powered solution that summarizes any form of data - text, video, or speech
 
 🤝 Looking to Collaborate On:  
 - Open-source projects  
-- AI-powered user experiences  
+- AI-powered user experiences 
 - Community-driven tech education  
 - Mentorship opportunities
 
