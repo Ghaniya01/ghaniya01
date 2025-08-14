@@ -1,9 +1,9 @@
-# 👋 Hi there, I'm Ghaniya
+ Hi there, I'm Ghaniya
 
-🎯 I'm a passionate full-stack developer and lifelong learner, building useful tools with React, Python, and AI.
+I'm a passionate full-stack developer and lifelong learner, building useful tools with React, Python, and AI.
 
 
-🚀 Currently Building:
+ Currently Building:
 An AI-powered solution that summarizes any form of data - text, video, or speech into clear, structured insights.
 
 🤝 Looking to Collaborate On:  
