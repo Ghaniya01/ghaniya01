@@ -12,7 +12,7 @@ An AI-powered solution that summarizes any form of data - text, video, or speech
 - Community-driven tech education  
 - Mentorship opportunities
 
-📝 I share tech solutions & tips on my blog:
+📝 I share tech solutions & tips on my blog
 [techwithghaniya.hashnode.dev](https://techwithghaniya.hashnode.dev/)
 
 📫 How to Reach Me:  
