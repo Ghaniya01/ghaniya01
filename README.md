@@ -1,6 +1,6 @@
  Hi there, I'm Ghaniya
 
-I'm a passionate full-stack developer and lifelong learner, building useful tools with React, Python, and AI.
+I work with REACTJS and PHP sometimes Python.
 
 
  Currently Building:
