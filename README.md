@@ -2,10 +2,6 @@
 
 I work with REACTJS and PHP sometimes Python.
 
-
- Currently Building:
-An AI-powered solution that summarizes any form of data - text, video, or speech into clear, structured insights.
-
 🤝 Looking to Collaborate On:  
 - Open-source projects  
 - AI-powered user experiences 
