@@ -2,7 +2,7 @@
 
 I work with REACTJS and PHP sometimes Python.
 
-🤝 Looking to Collaborate On:  
+Looking to Collaborate On:  
 - Open-source projects  
 - AI-powered user experiences 
 - Community-driven tech education  
